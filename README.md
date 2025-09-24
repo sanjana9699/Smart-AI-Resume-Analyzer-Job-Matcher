@@ -32,7 +32,7 @@ Python 3.7+
 
 Clone the repository
 
-git clone https://github.com/yourusername/resume-analyzer.git
+git clone https://github.com/sanjana9699/resume-analyzerSmart-AI-Resume-Analyzer.git
 cd resume-analyzer
 
 
