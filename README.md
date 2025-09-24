@@ -28,14 +28,6 @@ scikit-learn
 
 Python 3.7+
 
-⚙️ Installation
-
-Clone the repository
-
-git clone https://github.com/sanjana9699/resume-analyzerSmart-AI-Resume-Analyzer.git
-cd resume-analyzer
-
-
 Create a virtual environment (optional but recommended)
 
 python -m venv venv
