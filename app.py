@@ -43,3 +43,4 @@ if st.button("Analyze"):
                 st.write(result["suggestions"])
     else:
         st.warning("Please upload a resume and paste the job description.")
+
